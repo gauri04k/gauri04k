@@ -3,7 +3,7 @@
 <h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
 <a href="https://readme-typing-svg.demolab.com">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Gauri+Kapadnis+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </h1>
@@ -48,11 +48,11 @@
 ### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Himani0002&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gauri04k&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani0002&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
 
-<img src="https://streak-stats.demolab.com/?user=Himani0002&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
+<img src="https://streak-stats.demolab.com/?user=gauri04k&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
 </div>
 
 
@@ -103,7 +103,7 @@
 ### 📈 <span style="color:#90eebf;">Repository Activity Graph:</span>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himani0002&theme=dracula&bg_color=0d1117&color=90eebf&line=90eebf&point=90eebf&hide_border=true" alt="GitHub Repository Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri04k&theme=dracula&bg_color=0d1117&color=90eebf&line=90eebf&point=90eebf&hide_border=true" alt="GitHub Repository Activity Graph"/>
 </div>
 
 
@@ -112,13 +112,13 @@
 ### 💌 <span style="color:#90eebf;">Let's Connect!</span>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/himani-gohil" target="_blank">
+<a href="https://www.linkedin.com/in gauri-kapadnis" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-90eebf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
-<a href="mailto:himanigohil0002@gmail.com">
+<a href="mailto: gaurikapadnis2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-90eebf?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
-<a href="https://github.com/Himani0002" target="_blank">
+<a href="https://github.com/gauri04k" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-90eebf?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 <a href="https://discord.com/users/himani0002" target="_blank">
@@ -133,7 +133,7 @@
 
 <div align="center">
   <a href="#top">
-    <img src="https://img.shields.io/badge/©%202024%20Himani%20Gohil-All%20Rights%20Reserved-90eebf?style=for-the-badge&logoColor=black" alt="© 2024 Himani Gohil" />
+    <img src="https://img.shields.io/badge/©%202024%20gauri%20gauri-All%20Rights%20Reserved-90eebf?style=for-the-badge&logoColor=black" alt="© 2024 Gauri Kapadnis" />
   </a>
 </div>
 
