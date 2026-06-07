@@ -2,33 +2,39 @@
 
 # 👋 Hi, I'm Gauri Kapadnis
 
-### ☕ Java Full Stack Developer | Spring Boot Developer | Open Source Enthusiast
+### ☕ Java Full Stack Developer | Spring Boot Enthusiast | Open Source Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
 
-<p>
-  <a href="mailto:gaurikapadnis2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gauri-kapadnis">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/gauri04k">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<br>
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="450" />
+
+<br><br>
+
+<a href="mailto:gaurikapadnis2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gauri-kapadnis">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gauri04k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```java
 public class GauriKapadnis {
 
     String role = "Java Full Stack Developer";
-    
+
     String[] backend = {
         "Java",
         "Spring Boot",
@@ -38,8 +44,10 @@ public class GauriKapadnis {
     };
 
     String[] frontend = {
-        "React",
+        "React.js",
         "JavaScript",
+        "HTML",
+        "CSS",
         "Tailwind CSS"
     };
 
@@ -49,97 +57,186 @@ public class GauriKapadnis {
         "MongoDB"
     };
 
-    String currentFocus =
-        "Building enterprise-grade full stack applications";
+    String currentGoal =
+        "Building scalable enterprise applications";
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Backend
+### ☕ Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-### Database
+### 🗄 Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
----
+### ⚙️ Tools
 
-## 🌟 Featured Projects
-
-### 🔐 Spring Boot Authentication System
-
-Enterprise-grade authentication system using Spring Security and JWT.
-
-### 📊 Lead Manager Pro
-
-Full Stack CRM application with React, Spring Boot and PostgreSQL.
-
-### 📦 Inventory Management System
-
-Java Swing desktop application with MySQL integration.
-
-### 📝 VocaVerse
-
-Modern dictionary application with search, pronunciation and dark mode.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🏆 Achievements
+# 🌟 Featured Projects
+
+## 🔐 Spring Boot Authentication System
+
+* User Registration & Login
+* JWT Authentication
+* Spring Security
+* MySQL Database
+
+---
+
+## 📊 Lead Manager Pro
+
+* React Frontend
+* Spring Boot Backend
+* PostgreSQL Database
+* CRUD Operations
+
+---
+
+## 📦 Inventory Management System
+
+* Java Swing
+* JDBC
+* MySQL
+* Billing & Inventory Tracking
+
+---
+
+## 📚 VocaVerse Dictionary
+
+* HTML
+* CSS
+* JavaScript
+* Dark Mode Support
+
+---
+
+# 🏆 Achievements
 
 🏏 Cricket Team Captain (2024-25)
 
 💡 Smart India Hackathon Participant
 
-🌱 Active Open Source Contributor
+📚 NPTEL Certified (DAA & DBMS)
 
-📚 NPTEL Certified in DBMS & DAA
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gauri04k&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gauri04k&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri04k&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🚀 Open Source Contributor
 
 ---
 
-## 🎯 2026 Goals
+# 📜 Certifications
 
-* Contribute to Open Source Projects
-* Master Spring Boot & Microservices
-* Learn Docker & AWS
-* Solve 500+ DSA Problems
-* Build Production-Level Full Stack Projects
+* NPTEL – DBMS
+* NPTEL – DAA
+* Infosys Springboard – Agile
+* GeeksforGeeks – API Bootcamp
+* NXTVAVE – Generative AI
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauri04k&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri04k&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gauri04k&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri04k&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Spring Boot
+
+✅ Learn Microservices
+
+✅ Contribute to Open Source
+
+✅ Learn AWS & Docker
+
+✅ Build Production-Level Applications
+
+---
+
+# 💌 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gauri-kapadnis">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:gaurikapadnis2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/gauri04k">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💫 "Turning ideas into scalable software solutions."
+### ⭐ "Turning Ideas Into Scalable Software Solutions"
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile 🚀
 
 </div>
