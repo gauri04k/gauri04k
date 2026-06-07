@@ -1,32 +1,58 @@
-# Hi 👋, I'm Gauri Kapadnis
+<div align="center">
 
-### ☕ Java Full Stack Developer | Spring Boot Enthusiast | Open Source Learner
+# 👋 Hi, I'm Gauri Kapadnis
 
-💻 Passionate about building scalable and secure web applications using Java and modern web technologies.
+### ☕ Java Full Stack Developer | Spring Boot Developer | Open Source Enthusiast
 
-🎓 Computer Science Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning+Something+New" />
 
-🌱 Currently Learning:
+<p>
+  <a href="mailto:gaurikapadnis2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gauri-kapadnis">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/gauri04k">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-* Spring Boot
-* Microservices
-* System Design
-* Docker
-* AWS Cloud
-
-📍 India
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* ☕ Java Full Stack Developer
-* 🔥 Spring Boot & REST API Developer
-* 🗄️ Database Design with MySQL & PostgreSQL
-* 🎨 Frontend Development with React.js
-* 🌐 Open Source Contributor
-* 🏏 Cricket Team Captain (2024-25)
-* 💡 Smart India Hackathon Participant
+```java
+public class GauriKapadnis {
+
+    String role = "Java Full Stack Developer";
+    
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Hibernate",
+        "REST APIs"
+    };
+
+    String[] frontend = {
+        "React",
+        "JavaScript",
+        "Tailwind CSS"
+    };
+
+    String[] databases = {
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+    };
+
+    String currentFocus =
+        "Building enterprise-grade full stack applications";
+}
+```
 
 ---
 
@@ -34,95 +60,86 @@
 
 ### Backend
 
-* Java
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Hibernate
-* JPA
-* REST APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 
 ### Frontend
 
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
 
 ### Database
 
-* MySQL
-* PostgreSQL
-* MongoDB
-
-### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* IntelliJ IDEA
-* Postman
-* Maven
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔐 User Authentication System
+### 🔐 Spring Boot Authentication System
 
-Spring Boot + MySQL + Spring Security
+Enterprise-grade authentication system using Spring Security and JWT.
 
-Features:
+### 📊 Lead Manager Pro
 
-* User Registration
-* Login Authentication
-* Password Encryption
-* JWT Security
-
-### 📋 Lead Manager Pro
-
-React + Spring Boot + PostgreSQL
-
-Features:
-
-* User Management
-* Lead Tracking
-* Dashboard Analytics
-* CRUD Operations
+Full Stack CRM application with React, Spring Boot and PostgreSQL.
 
 ### 📦 Inventory Management System
 
-Java Swing + JDBC + MySQL
+Java Swing desktop application with MySQL integration.
 
-Features:
+### 📝 VocaVerse
 
-* Product Management
-* Inventory Tracking
-* Billing System
-* Database Integration
+Modern dictionary application with search, pronunciation and dark mode.
 
 ---
 
-## 📜 Certifications
+## 🏆 Achievements
 
-* NPTEL – DBMS
-* NPTEL – DAA
-* Infosys Springboard – Agile
-* GeeksforGeeks – API Bootcamp
-* NXTVAVE – Generative AI
+🏏 Cricket Team Captain (2024-25)
 
----
+💡 Smart India Hackathon Participant
 
-## 🎯 Career Goal
+🌱 Active Open Source Contributor
 
-Aspiring Java Full Stack Developer focused on building enterprise-grade applications using Spring Boot, React, and Cloud technologies.
+📚 NPTEL Certified in DBMS & DAA
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Analytics
 
-📧 [gaurikapadnis2004@gmail.com](mailto:gaurikapadnis2004@gmail.com)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gauri04k&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-💼 LinkedIn: linkedin.com/in/gauri-kapadnis
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gauri04k&theme=tokyonight&hide_border=true" />
+</p>
 
-🌐 GitHub: github.com/gauri04k
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri04k&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* Contribute to Open Source Projects
+* Master Spring Boot & Microservices
+* Learn Docker & AWS
+* Solve 500+ DSA Problems
+* Build Production-Level Full Stack Projects
+
+---
+
+<div align="center">
+
+### 💫 "Turning ideas into scalable software solutions."
+
+⭐ Thanks for visiting my profile!
+
+</div>
