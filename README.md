@@ -1,33 +1,41 @@
 <div align="center">
 
-# 👋 Hi, I'm Gauri Kapadnis
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Gauri%20Kapadnis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### ☕ Java Full Stack Developer | Spring Boot Developer | Open Source Enthusiast
+# ☕ Java Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Frontend+Developer;Open+Source+Contributor;Building+Scalable+Applications" />
 
 </div>
+
+---
 
 <table>
 <tr>
 
 <td width="55%">
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-* ☕ Java Full Stack Developer
-* 🌱 Currently learning Microservices & AWS
-* 💻 Building Full Stack Applications
-* 🎯 Open Source Contributor
-* 🏏 Cricket Team Captain (2024-25)
-* 💡 Smart India Hackathon Participant
-* 📍 India
+🎓 Computer Science Engineering Student
+
+☕ Java Full Stack Developer
+
+🚀 Building applications with Spring Boot & React
+
+🌱 Learning Microservices, Docker & AWS
+
+💡 Smart India Hackathon Participant
+
+🏏 Cricket Team Captain (2024–25)
+
+📍 India
 
 </td>
 
 <td width="45%">
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="350"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350"/>
 
 </td>
 
@@ -36,35 +44,35 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 💻 Developer Card
+## 💻 Developer Profile
 
 ```java
 public class GauriKapadnis {
@@ -72,7 +80,7 @@ public class GauriKapadnis {
     String role = "Java Full Stack Developer";
 
     String backend =
-        "Java, Spring Boot, Hibernate, REST APIs";
+        "Java, Spring Boot, Spring Security, Hibernate";
 
     String frontend =
         "React.js, JavaScript, Tailwind CSS";
@@ -80,7 +88,7 @@ public class GauriKapadnis {
     String database =
         "MySQL, PostgreSQL, MongoDB";
 
-    String goal =
+    String currentFocus =
         "Building scalable enterprise applications";
 }
 ```
@@ -89,87 +97,67 @@ public class GauriKapadnis {
 
 ## 🚀 Featured Projects
 
-### 🔐 Spring Boot Authentication System
+### 🔐 Authentication System
 
-✔ User Registration & Login
-
-✔ JWT Authentication
-
-✔ Spring Security
-
-✔ MySQL Integration
-
----
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* MySQL
 
 ### 📊 Lead Manager Pro
 
-✔ React Frontend
-
-✔ Spring Boot Backend
-
-✔ PostgreSQL Database
-
-✔ Dashboard Analytics
-
----
+* React.js
+* Spring Boot
+* PostgreSQL
+* CRUD Operations
 
 ### 📦 Inventory Management System
 
-✔ Java Swing
+* Java Swing
+* JDBC
+* MySQL
+* Billing & Inventory Tracking
 
-✔ JDBC
+### 📚 VocaVerse
 
-✔ MySQL
-
-✔ Inventory Tracking
-
----
-
-### 📚 VocaVerse Dictionary
-
-✔ Modern UI
-
-✔ Word Search
-
-✔ Pronunciation Support
-
-✔ Dark Mode
+* Dictionary Web Application
+* JavaScript
+* Dark Mode
+* Responsive Design
 
 ---
 
 ## 🏆 Achievements
 
-🏏 Cricket Team Captain (2024-25)
+🏏 Cricket Team Captain (2024–25)
 
 💡 Smart India Hackathon Participant
 
 🌱 Open Source Contributor
 
-📚 NPTEL Certified
+📘 NPTEL Certified
 
 ---
 
 ## 📜 Certifications
 
-* NPTEL – DBMS
-* NPTEL – DAA
+* NPTEL – Database Management Systems
+* NPTEL – Design & Analysis of Algorithms
 * Infosys Springboard – Agile
 * GeeksforGeeks – API Bootcamp
 * NXTVAVE – Generative AI
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauri04k&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gauri04k&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri04k&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri04k&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -179,21 +167,17 @@ public class GauriKapadnis {
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 📊 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -205,15 +189,11 @@ public class GauriKapadnis {
 
 ## 🎯 2026 Goals
 
-✅ Master Spring Boot
-
-✅ Learn Microservices
-
-✅ Learn Docker & AWS
-
-✅ Contribute to Open Source
-
-✅ Build Production-Level Projects
+* Master Spring Boot
+* Learn Microservices
+* Learn Docker & AWS
+* Contribute to Open Source
+* Build Production-Ready Applications
 
 ---
 
@@ -239,8 +219,10 @@ public class GauriKapadnis {
 
 <div align="center">
 
-### ⭐ "Turning Ideas Into Scalable Software Solutions"
+### ⭐ Turning Ideas Into Scalable Software Solutions
 
 Thanks for visiting my profile 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
