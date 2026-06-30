@@ -7,7 +7,6 @@
 ### ☕ Java Full Stack Developer | Spring Boot Enthusiast
 
 
-[<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRqYW40dm9oNXl4N2V6czM2aDNydDdtN3BuYmdrdGI4eW5obWM0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)](https://tenor.com/3Kua.gif)
 
 <br><br>
 
