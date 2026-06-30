@@ -8,8 +8,6 @@
 
 
 
-<br><br>
-
 ![](https://komarev.com/ghpvc/?username=gauri04k&style=for-the-badge&color=blueviolet)
 
 <a href="mailto:gaurikapadnis2004@gmail.com">
