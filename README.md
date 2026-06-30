@@ -9,8 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Modern+Web+Applications;Open+Source+Contributor;Always+Learning+and+Growing" />
 
 <br>
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350"/>
+<img src="https://media.tenor.com/bGfSXSPVQWAAAAAC/coding.gif" width="350"/>
 
 <br><br>
 
