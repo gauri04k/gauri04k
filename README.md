@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="330"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350"/>
 
 <br><br>
 
