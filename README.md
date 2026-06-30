@@ -9,8 +9,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
 <br>
-
-[<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRqYW40dm9oNXl4N2V6czM2aDNydDdtN3BuYmdrdGI4eW5obWM0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)
+[
+[<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRqYW40dm9oNXl4N2V6czM2aDNydDdtN3BuYmdrdGI4eW5obWM0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)](https://tenor.com/3Kua.gif)
 
 <br><br>
 
